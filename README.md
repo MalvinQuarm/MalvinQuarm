@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming 
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...c++
-- 📫 How to reach me ...email
+- 📫 How to reach me ...malvinquarm5@gmail.com
 - 😄 Pronouns: ...he 
 - ⚡ Fun fact: ...love learning new things
 - 
